@@ -1,0 +1,12 @@
+/* style.css */
+.bg-custom-dark { background-color: #201E43; }
+.bg-custom-blue { background-color: #134B70; }
+.bg-custom-teal { background-color: #508C9B; }
+.bg-custom-light { background-color: #EEEEEE; }
+
+.text-custom-dark { color: #201E43; }
+.text-custom-blue { color: #134B70; }
+.text-custom-teal { color: #508C9B; }
+.text-custom-light { color: #EEEEEE; }
+
+/* Puedes agregar más estilos personalizados aquí */
